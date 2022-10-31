@@ -9,4 +9,5 @@ namespace MoreCSharp.Delegates
     delegate string StringProcess(string n);
     delegate int TwoIntegerProcess(int a, int b);
     delegate void Callback(string n);
+    delegate int ArrayProcessor(int[] array);
 }

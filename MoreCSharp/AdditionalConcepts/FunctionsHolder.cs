@@ -4,6 +4,7 @@ using System.Text;
 
 namespace MoreCSharp.AdditionalConcepts
 {
+    
     internal static class FunctionsHolder
     {
         

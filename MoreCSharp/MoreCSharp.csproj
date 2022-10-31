@@ -3,7 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>MoreCSharp.Executables.ExtensionMethodDemo</StartupObject>
+    <StartupObject>MoreCSharp.Executables.DelegateDemo</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
 
 </Project>

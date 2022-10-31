@@ -1,0 +1,14 @@
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.csproj.AssemblyReference.cache
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.AssemblyInfoInputs.cache
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.AssemblyInfo.cs
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.csproj.CoreCompileInputs.cache
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.exe
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.deps.json
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.runtimeconfig.json
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.runtimeconfig.dev.json
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.dll
+D:\microsoft\MoreCSharp\MoreCSharp\bin\Debug\netcoreapp3.1\MoreCSharp.pdb
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.dll
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.pdb
+D:\microsoft\MoreCSharp\MoreCSharp\obj\Debug\netcoreapp3.1\MoreCSharp.genruntimeconfig.cache

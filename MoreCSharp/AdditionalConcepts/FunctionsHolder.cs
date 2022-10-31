@@ -11,6 +11,11 @@ namespace MoreCSharp.AdditionalConcepts
             Console.WriteLine("This class has a method and The name is Go For it"); 
         }
 
+        public static void NewMethod(this InstanceMethodHolder holder) {
+            Console.WriteLine("This is new Method added to InstanceMethodHolder class");
+            Console.WriteLine(holder.instance);
+        }
+
       
     }
 }

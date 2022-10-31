@@ -8,4 +8,5 @@ namespace MoreCSharp.Delegates
     // which has string as return type and one string parameter
     delegate string StringProcess(string n);
     delegate int TwoIntegerProcess(int a, int b);
+    delegate void Callback(string n);
 }

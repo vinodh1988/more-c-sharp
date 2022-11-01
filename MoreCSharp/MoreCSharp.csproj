@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>MoreCSharp.Executables.GenericDemo</StartupObject>
+    <StartupObject>MoreCSharp.CollectionExecutables.GenericPriorityBased</StartupObject>
   </PropertyGroup>
 
 </Project>

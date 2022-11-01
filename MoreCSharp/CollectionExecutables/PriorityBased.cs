@@ -37,6 +37,7 @@ namespace MoreCSharp.CollectionExecutables
             queue.Dequeue();
             queue.Dequeue();
 
+            Console.WriteLine("right now {0}", queue.Peek());
             foreach (var item in queue)
             {
                 Console.WriteLine(item);

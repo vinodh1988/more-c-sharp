@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>MoreCSharp.CollectionExecutables.ListDemo</StartupObject>
+    <StartupObject>MoreCSharp.CollectionExecutables.SortedSetForEmployee</StartupObject>
   </PropertyGroup>
 
 </Project>

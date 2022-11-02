@@ -7,7 +7,7 @@ namespace MoreCSharp.AdditionalConcepts
     internal static class PassByReference
     {
 
-        public static void ChangeIt(ref int a, int b) {
+        public static void ChangeIt(ref int a, ref int b) {
             Console.WriteLine("Original A:{0}, B:{1}", a, b);
             int temp;
             temp = a;

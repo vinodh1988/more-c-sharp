@@ -10,7 +10,7 @@ namespace MoreCSharp.MoreExecutables
     {
         static void Main(string[] n) {
             int a = 30, b = 20;
-            PassByReference.ChangeIt(ref a,b);
+            PassByReference.ChangeIt(ref a,ref b);
             Console.WriteLine("In main Class: a:{0}, b:{1}", a, b);
         }
     }
